@@ -40,7 +40,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 st.markdown("The project **_SecureTweet_** developed by students :blue[**_Harshit Tripathi, Ajay Gupta and Shivam Srivastava_**]")
 st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.markdown("For any question about the project, please contact us at blue[**_harshit.tripathi8055gmail.com_**]</a> .", unsafe_allow_html=True)
+st.markdown("For any question about the project, please contact us at :blue[**_harshit.tripathi8055gmail.com_**]</a> .", unsafe_allow_html=True)
 st.markdown("<br> <br> <br>", unsafe_allow_html=True)
 col1, col2 = st.columns([2,4])
 with col1:
