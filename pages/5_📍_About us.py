@@ -37,10 +37,10 @@ st.title("About us📍")
 st.markdown("---")
 st.markdown("<br>", unsafe_allow_html=True)
 
-st.markdown("The project **_SecureTweet_** developed by students :blue[**_Ajay,Ankit,Ayush,Charvi,Harshit,Shivam_**]")
+st.markdown("The project **_SecureTweet_** developed by students :blue[**_Harshit Tripathi and Ajay Gupta_**]")
 st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.markdown("For any question about the project, please contact us</a> .", unsafe_allow_html=True)
+st.markdown("For any question about the project, please contact us at harshit.tripathi8055gmail.com</a> .", unsafe_allow_html=True)
 st.markdown("<br> <br> <br>", unsafe_allow_html=True)
 col1, col2 = st.columns([2,4])
 with col1:
